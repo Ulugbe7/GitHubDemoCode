@@ -11,5 +11,7 @@ class MainActivity : AppCompatActivity() {
         println("this is master second commit")
 
         today is the best day
+
+        teh day is nice
     }
 }
