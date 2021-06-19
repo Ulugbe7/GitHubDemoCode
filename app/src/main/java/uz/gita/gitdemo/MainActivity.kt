@@ -14,5 +14,8 @@ class MainActivity : AppCompatActivity() {
 
 
 //        this is revert code
+
+
+        // this is master7 commit comment
     }
 }
