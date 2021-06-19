@@ -12,6 +12,5 @@ class MainActivity : AppCompatActivity() {
 
         today is the best day
 
-        teh day is nice
     }
 }
