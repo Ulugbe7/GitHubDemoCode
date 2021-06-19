@@ -24,7 +24,7 @@ class MainActivity : AppCompatActivity() {
 
         // this is extra1 commit
 
-        // this is master9 commit
+        // this is extra2 commit
 
     }
 }
