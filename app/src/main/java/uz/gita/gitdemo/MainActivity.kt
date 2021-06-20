@@ -26,5 +26,8 @@ class MainActivity : AppCompatActivity() {
 
         // this is extra2 commit
 
+
+        // hello this is second developer commit
+
     }
 }
